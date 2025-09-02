@@ -1,4 +1,7 @@
-/*output using format specifier*/
+/*output using format specifier
+%d for integer
+%f for float
+%c for character*/
 
 
 #include <stdio.h>
