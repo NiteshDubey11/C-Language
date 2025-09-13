@@ -1,5 +1,5 @@
 /* 
-    implicit conversion
+    explicit type conversion
     float ==> int
     int ==> float
 */
