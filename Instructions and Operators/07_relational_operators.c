@@ -5,7 +5,7 @@
     3. <,<= (less than ,less than or equal to)
     4. != (not equal to)
 
-    NOTE: 1 represnts TRUE,0 represents FALSE
+    NOTE: 1 represents TRUE,0 represents FALSE
 */
 #include <stdio.h>
 
