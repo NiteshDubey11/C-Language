@@ -1,7 +1,7 @@
 /* 
     check if number is odd or even.
-    for even -> 1
-    for odd -> 0
+    for even -> 0
+    for odd -> 1
 
 */
 #include <stdio.h>
