@@ -1,4 +1,5 @@
 /*
+    Question 3:
     == stands for comparison
     = stands for assignment
     
