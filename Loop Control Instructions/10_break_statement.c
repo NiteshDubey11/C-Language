@@ -1,6 +1,8 @@
 /*
     Format for Break Statement:
     break;
+
+    Note:exit the loop
 */
 #include <stdio.h>
 
