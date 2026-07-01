@@ -1,6 +1,6 @@
 /*
     Question 3:
-    Write a function to reverse an array.
+    Write a function to reverse an array.(1st method)
 */
 
 #include<stdio.h>
