@@ -1,7 +1,6 @@
 /*
     String: A character array terminated by a '\0'(null character).
     null character denotes string termination(end)
-
 */
 
 #include<stdio.h>
