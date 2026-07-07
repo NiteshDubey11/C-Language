@@ -30,4 +30,5 @@ void checkChar(char str[],char ch){
             break;
         }
     }
+    printf("Character not found in string");
 }
